@@ -7,10 +7,10 @@ Before joining Beihang University, I obtained my Bachelor’s degree in Engineer
 
 I am actively seeking Ph.D. opportunities, and my research interests include:
 
- **Solid-state batteries**
- **Lithium and sodium metal anodes**
- **Interface engineering in energy storage systems**
- **Solid-state electrolyte materials design and optimization**
+ -Solid-state batteries
+ -Lithium and sodium metal anodes
+ -Interface engineering in energy storage systems
+ -Solid-state electrolyte materials design and optimization
 If you are interested in my research or potential collaborations, please feel free to contact me via email: [m15095165012@gmail.com](mailto:m15095165012@gmail.com).
 
 
