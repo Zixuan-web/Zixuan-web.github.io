@@ -8,7 +8,7 @@
 Chunqiao Jin<sup>#</sup>, Andrew Xiang<sup>#</sup>, **Zixuan Wang<sup>#</sup>**
 
 [**Project**](https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/aenm.202402811) | <strong>SCI Journal Paper</strong>
-- Advanced Energy Materials, 2025, 15(3): 2402811., doi: 10.1002/aenm.202402811
+- Advanced Energy Materials, Volume 15, Issue 3, 2025, doi: 10.1002/aenm.202402811
 </div>
 </div>
 
@@ -27,7 +27,7 @@ Chunqiao Jin<sup>#</sup>, Andrew Xiang<sup>#</sup>, **Zixuan Wang<sup>#</sup>**
 Lei Wang, Jinghan Zuo,  **Zixuan Wang**
 
 [**Project**](https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/aenm.202403258) | <strong>SCI Journal Paper</strong>
-- Advanced Energy Materials, 2403258., doi: 10.1002/aenm.202403258.
+- Advanced Energy Materials, Early View, 2024, doi: 10.1002/aenm.202403258.
 </div>
 </div>
 
